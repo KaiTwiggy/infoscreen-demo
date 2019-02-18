@@ -1,0 +1,1 @@
+export const SLIDES_UPDATE = 'SLIDES_UPDATE'

@@ -1,0 +1,12 @@
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\data.json
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\Infoscreen.Web.deps.json
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\Infoscreen.Web.runtimeconfig.json
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\Infoscreen.Web.runtimeconfig.dev.json
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\Infoscreen.Web.dll
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\bin\Release\netcoreapp2.0\Infoscreen.Web.pdb
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.csprojResolveAssemblyReference.cache
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.csproj.CoreCompileInputs.cache
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.AssemblyInfoInputs.cache
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.AssemblyInfo.cs
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.dll
+C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web\obj\Release\netcoreapp2.0\Infoscreen.Web.pdb

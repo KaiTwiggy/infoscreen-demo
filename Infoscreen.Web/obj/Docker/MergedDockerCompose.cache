@@ -1,0 +1,11 @@
+services:
+  infoscreen.web:
+    build:
+      context: C:\sourcet\infoscreen-reactor\Infoscreen.Web\Infoscreen.Web
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: infoscreen.web
+    ports:
+    - 80/tcp
+version: '3.0'

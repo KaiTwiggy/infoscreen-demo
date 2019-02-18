@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  infoscreen.web:
+    image: infoscreen.web
+    build:
+      context: ./Infoscreen.Web
+      dockerfile: Dockerfile

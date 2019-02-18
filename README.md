@@ -10,8 +10,8 @@ More on these below.
 Basically Backend handles all required interactions with both the management frontend and the "screen" part
 As this is .Net core project, can be run on osx / linux. Just install .net Core runtime and run following commands in the 
 /Infoscreen.Web/Infoscreen.Web/ folder.
-dotnet restore
-dotnet run
+* dotnet restore
+* dotnet run
 
 The backend will start @ port 50478, and the front dev configs should point to this location.
 
